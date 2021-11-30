@@ -1,8 +1,7 @@
 /*  Sample Output 👇
-    A A A A
-    B B B B 
-    C C C C 
-    D D D D
+    A B C 
+    A B C 
+    A B C 
 */
 #include <iostream>
 using namespace std;
